@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="113" viewBox="0 0 465 113">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 133.333px;
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: "Myriad Pro";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 160px;
+        fill: #0070c0;
+      }
+
+      .cls-3 {
+        fill: #e40a16;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" x="331.469" y="5.313" width="66.562" height="76.438" rx="9.981" ry="9.981"/>
+  <text id="_1" data-name="1" class="cls-1" transform="translate(341.622 72.453) scale(0.665 0.665)">1</text>
+  <text id="Level" class="cls-2" transform="translate(76.96 109.898) scale(0.665 0.665)">Level</text>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-3" x="61.313" y="4" width="8" height="106.344" rx="3.327" ry="3.327"/>
+</svg>
