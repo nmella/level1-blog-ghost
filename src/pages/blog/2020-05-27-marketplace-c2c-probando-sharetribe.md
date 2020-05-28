@@ -10,6 +10,8 @@ description: Bueno, ya lo hemos dicho antes. Las soluciones opensource que
 featuredpost: true
 featuredimage: /img/sharetribe.png
 tags:
-  - sharetribe c2c
+  - sharetribe
+  - c2c
+  - RoR
 ---
 Bueno, ya lo hemos dicho antes. Las soluciones opensource que existen por ahí son increíbles.... Aquí veremos  soluciones gratuitas para la creación de comunidades "consumer to consume" o C2C, en particular el proyecto "Sharetribe" que existe ya desde el 2008 y a la fecha ya lleva más de 17.000 commits de 67 usuarios.
