@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Desarrollo ecommerce B2B ?
+title: ¿ Desarrollo ecommerce ?
 image: /img/home-jumbotron.jpg
 heading: Desarrollo
-subheading: Support sustainable farming while enjoying a cup
+subheading: La transformación digital no es sólo una página web ...
 mainpitch:
   title: Why Kaldi
   description: >
