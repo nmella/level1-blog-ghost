@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Level1 - Desarrollo Ecommerce',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Desarrollo Ecommerce. Magento, Vtex, Shuup, Sharetribe, React Commerce, Spree Commerce, Oracle Commerce, Salesforce, SAP Hybris, Intershop, OroCommerce.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
