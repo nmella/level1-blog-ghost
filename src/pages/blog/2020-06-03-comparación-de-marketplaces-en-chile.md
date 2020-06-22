@@ -8,4 +8,4 @@ featuredimage: /img/apple-touch-icon.png
 tags:
   - a
 ---
-a
+* a
