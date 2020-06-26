@@ -26,4 +26,10 @@ Cada uno entrega "*insights*" o detalles muy buenos de lo que se debe mejorar. N
 
 En nuestro proyectos priorizamos el performance por sobre el exceso de información. Aquí los resultados de nuestro último proyecto:
 
+
+
+
+
 ![](/img/2020-06-25_19-48-05.jpg)
+
+aa
